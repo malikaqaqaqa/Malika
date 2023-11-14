@@ -1,0 +1,24 @@
+main{
+    background-color: #83ddf8;
+}
+
+
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: #c91313;
+    font-size: 24px ;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+h1:hover {
+    color: rgb(53, 228, 228);
+}
+img {
+    border-radius: 100% ;
+}
+.titlt{
+    font-size: 20px;
+}
